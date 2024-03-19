@@ -1,0 +1,17 @@
+body {
+      color: white;
+	  font-size: 25px;
+	  text-align:center;
+	  border-style: solid;
+	  border-width: 10px;
+	  background-image: url("hola.jpg");
+	  background-color: black;
+	  background-size: cover;
+	  border-radius: 20xp;
+}
+img {
+    border-style: solid;
+	border-color: white;
+	border-width: 10px;
+	border-radius: 20px;
+}
